@@ -145,7 +145,7 @@ header{
 }
 
 .herobackground{
-	background-image: url(SiteImages/Hero Image.JPEG");
+	background-image: url("SiteImages/HeroImage.jpg");
 	background-size:cover; 
 	padding-top: 60px;
 	height:800px
